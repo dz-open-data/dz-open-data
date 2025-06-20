@@ -4,7 +4,7 @@
 Source: [https://www.joradp.dz/](https://www.joradp.dz/)
 
 Format des fichiers : *.pdf
-# joradp
+# joradp, arabe, français
 - Journaux officiels de 1962 à juin 2025
 
 # codes
